@@ -1,0 +1,2 @@
+# GraficacionMultimedia
+Ejercicios c: 
